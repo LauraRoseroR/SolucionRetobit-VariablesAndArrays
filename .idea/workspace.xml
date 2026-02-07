@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="33598d17-12dc-4727-b7ae-aca87aa5c693" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EJERCICIOS-JAVA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/.github/workflows/maven.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/public/img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/public/img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/public/img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/public/img4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/src/main/java/VariablesAndArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/src/test/java/VariablesAndArraysTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EJERCICIOS-JAVA/VariablesAndArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/src/main/java/VariablesAndArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays/src/main/java/VariablesAndArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,16 +14,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SolucionRetobit-VariablesAndArrays" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="39MWAq4TiTPpv2LGvJNmoTELQp4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,12 +34,18 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -71,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770506280633</updated>
       <workItem from="1770506283162" duration="75000" />
+      <workItem from="1770506369333" duration="605000" />
     </task>
     <servers />
   </component>
