@@ -1,4 +1,3 @@
-import java.util.Arrays;
 public class VariablesAndArrays {
     /**
      * Reto 1: Declaración de una variable int.
@@ -10,6 +9,7 @@ public class VariablesAndArrays {
 
         // Tu código aquí
         int age=30;
+
         // Sustituye el 0 por tu variable ¡pero no borres el return!
         return age;
     }
@@ -54,18 +54,14 @@ public class VariablesAndArrays {
     public String[] declareStringArray() {
 
         // Tu código aquí
-        String[] names={"Ana","Luis","Marta"};
+        String[] names={"Ana", "Luis", "Marta"}
 
         // Sustituye new String[0] por la variable 'names'
-        return names;
+        return new names;
     }
 
 
     public static void main(String[] args) {
-        VariablesAndArrays nameArray= new VariablesAndArrays();
-        System.out.println(Arrays.toString(nameArray.declareStringArray()));
-        System.out.println(nameArray.declareChar());
-        System.out.println(nameArray.declareBoolean());
-        System.out.println(nameArray.declareInt());
+        // Puedes hacer pruebas por aquí 🤖
     }
 }
